@@ -52,7 +52,4 @@
 
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/aydee-toledo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://www.instagram.com/bl4ckmd/">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
 </p>
